@@ -1,2 +1,4 @@
-	print("hello test3")
+	for x in range (10)
+		print(x)
+
 
